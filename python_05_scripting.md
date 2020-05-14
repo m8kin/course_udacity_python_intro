@@ -17,7 +17,7 @@ python files end in the suffix ".py"
 Open a terminal and run either
 
 OSX/Linux:
-```python
+```
 python3 ./scripts/first_script.py
 python ./scripts/first_script.py
 ```
@@ -49,7 +49,7 @@ python ./scripts/first_script.py
     - **SystemError**: Raised when the interpreter detects internal error.
     - **SystemExit**: Raised by the sys.exit() function.
     - **TypeError**: Raised when a function or operation is applied to an object of an incorrect type.
-    - **UnboundLocalError**: Raised when a reference is made to a local variable in a function or method, but no va**lue   - has been bound to that variable.
+    - **UnboundLocalError**: Raised when a reference is made to a local variable in a function or method, but no value - has been bound to that variable.
     - **UnicodeError**: Raised when a Unicode-related encoding or decoding Error occurs.
     - **UnicodeEncodeError**: Raised when a Unicode-related error occurs during encoding.
     - **UnicodeDecodeError**: Raised when a Unicode-related error occurs during decoding.
